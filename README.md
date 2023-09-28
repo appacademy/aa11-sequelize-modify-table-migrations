@@ -1,0 +1,1 @@
+# aa11-sequelize-modify-table-migrations
